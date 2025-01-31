@@ -44,6 +44,16 @@ button {
     margin-left: 5px;
 }
 
+buttondel {
+    background: #ff0000;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;    
+    border-radius: 5px;
+    font-size: 14px;
+    margin-left: 5px;
+}
 
 button:hover {
     background: #0056b3;

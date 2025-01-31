@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const charCount = document.createElement("span");
         charCount.textContent = content.length + " chars";
 
-        const deleteBtn = document.createElement("button");
+        const deleteBtn = document.createElement("buttondel");
         deleteBtn.innerText = "Delete";
         deleteBtn.addEventListener("click", function () {
             noteDiv.remove();
